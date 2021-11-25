@@ -7,7 +7,7 @@
 
 
 
-console.log('hhhhi')
+console.log('hhhi')
 
 
 let pigDice = 0
@@ -21,4 +21,5 @@ function randomNum(min,max){
 }
 
 randomNum(1,6)
+
 
